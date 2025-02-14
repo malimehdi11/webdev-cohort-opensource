@@ -4,3 +4,7 @@ git log
 git log --graph
 git branch
 git init
+git merge --squash "feat-d"
+(it depends on the org to use this) 
+git log --oneline
+git log --graph
